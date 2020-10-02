@@ -7,7 +7,9 @@ PyQT5 snippet for running overlaying crosshair on top of every window.
 ```bash
 pip install pyqt5
 
-git clone https://github.com/SparrowOchon/crosshair.git
+git clone https://github.com/georgegach/crosshair.git
 cd crosshair/
 python cross.py
+
+# Ctrl-C to exit
 ```
